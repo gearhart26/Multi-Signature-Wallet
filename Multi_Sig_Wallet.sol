@@ -5,7 +5,7 @@ import "./Permissions.sol";
         //allows us to return a struct from functions
     pragma abicoder v2;
     
-    contract Muilt_Sig_Wallet is Permissions{
+    contract Multi_Sig_Wallet is Permissions{
         
             //A variable that will increment and  be assigned to transactions as they are submitted
         uint private TransactionID;
