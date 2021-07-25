@@ -1,5 +1,5 @@
 pragma solidity 0.7.5;
-import "./Permissions.sol";
+import "./permissions.sol";
     
         
         //allows us to return a struct from functions
